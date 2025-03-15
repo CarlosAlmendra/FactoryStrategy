@@ -27,8 +27,9 @@ correspondente.
 tipo de notificação e inserir a mensagem.
 
 # Exemplo de Fluxo Esperado
+
+1. O sistema exibe as opções de notificação:
 ```
-1. O sistema exibe as opções de notificação: 
     a. 1: Email 
     b. 2: SMS 
     c. 3: Push Notification
